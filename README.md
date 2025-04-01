@@ -60,7 +60,7 @@ The project was submitted as part of the **ALY 6130 – Enterprise Risk Manageme
 
 ## 📂 Deliverables
 
-- `KekanPurva_FinalProject.pdf`— Full project report with risk analysis, visual tools, and strategic recommendations
+- `ERM-Report.pdf`— Full project report with risk analysis, visual tools, and strategic recommendations
 - `README.md` — Project summary and context for GitHub
   
 ---
